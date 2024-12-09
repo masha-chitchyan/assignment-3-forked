@@ -44,10 +44,9 @@ function Accordion() {
     return (
         <div className='rounded-3xl'>
             <div className='flex-col text-center w-screen pt-16 pb-4 px-24'>
-            <p className='text-s text-lime uppercase bold-font'>FAQs</p>
+                <p className='text-s text-lime uppercase bold-font'>FAQs</p>
             </div>
-            <AccordionItem title="How can I get started with using the dashboard?">
-                Getting started with our dashboard is simple! Once you sign up and log in, you'll be guided through an onboarding process that includes setting up your account, configuring preferences, and exploring key features. We also offer tutorials and helpful resources to ensure you're up and running in no time.
+            <AccordionItem title="How can I get started with using the dashboard?">Getting started with our dashboard is simple! Once you sign up and log in, you&apos;ll be guided through an onboarding process that includes setting up your account, configuring preferences, and exploring key features. We also offer tutorials and helpful resources to ensure you&apos;re up and running in no time.
             </AccordionItem>
             <AccordionItem title="What features are available on the dashboard?">
                 Our dashboard includes a wide range of features such as real-time data tracking, customizable reports, user activity monitoring, task management, and integration with third-party apps. You can also customize your dashboard layout and access detailed analytics to optimize your workflow.
@@ -56,7 +55,7 @@ function Accordion() {
                 Yes, the dashboard is fully customizable. You can move, resize, and organize widgets to suit your needs. You can also choose from different themes to adjust the visual appearance and enhance your user experience.
             </AccordionItem>
             <AccordionItem title="How do I integrate third-party apps with the dashboard?">
-                To integrate third-party apps, navigate to the "Integrations" section in the settings menu. From there, you'll be able to choose from a variety of supported apps, authenticate your account, and configure the integration according to your preferences.
+                To integrate third-party apps, navigate to the &quot;Integrations&quot; section in the settings menu. From there, you&apos;ll be able to choose from a variety of supported apps, authenticate your account, and configure the integration according to your preferences.
             </AccordionItem>
             <AccordionItem title="Is the data stored on the dashboard secure?">
                 Absolutely! We prioritize your security. All data is encrypted using industry-standard protocols, and we regularly update our security measures to protect your information. Additionally, we offer two-factor authentication for extra security.

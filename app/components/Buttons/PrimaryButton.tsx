@@ -78,7 +78,7 @@ const PrimaryButton: React.FC<PrimaryButtonProps> = ({ label }) => {
               </>
             ) : (
               <div className="text-gwhite text-xl text-center mb-4">
-                Success! You'll receive the setup instructions shortly. Thank you for being with us!
+                Success! You&apos;ll receive the setup instructions shortly. Thank you for being with us!
               </div>
             )}
 

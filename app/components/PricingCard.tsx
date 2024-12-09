@@ -1,5 +1,4 @@
 import React from "react";
-import PrimaryButton from "./Buttons/PrimaryButton";
 import CallToAction from "./CallToAction";
 
 function PricingCard() {
